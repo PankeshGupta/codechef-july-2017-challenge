@@ -1,4 +1,4 @@
-ef solution(test_case):
+def solution(test_case):
     n = int(test_case.split()[0])
     
     b = int(test_case.split()[1])
